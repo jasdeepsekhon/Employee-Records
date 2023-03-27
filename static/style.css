@@ -1,0 +1,15 @@
+.signup-btn {
+  width: 100%;
+}
+
+.signup-row {
+  padding-top: 20px;
+}
+
+.dontshrink {
+ width: 100% !important;
+}
+
+.unbold {
+  font-weight: normal;
+}
